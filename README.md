@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gastón Díaz, a Data analyst and Data engineer
+I'm Gastón Díaz, a software backend developer
 <!--
 **nagots23/nagots23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
