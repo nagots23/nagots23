@@ -4,6 +4,9 @@ I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
 Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 
+:database: PostgreSQL Enthusiast
+
+
 <!--
 **nagots23/nagots23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
