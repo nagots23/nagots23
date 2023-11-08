@@ -4,9 +4,10 @@ I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
 Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 
-![image](https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4) 
+![image](https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4)=30x30
 
-<![image](https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4) style="width: 30px; height: 30px;">
+<img src="[https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4]" style="width: 30px; height: 30px;">
+
 
 
 
