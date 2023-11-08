@@ -5,7 +5,6 @@ I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
