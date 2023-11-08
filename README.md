@@ -3,6 +3,7 @@ I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
 
 Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+
 :database: PostgreSQL Enthusiast
 
 
