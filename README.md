@@ -1,12 +1,20 @@
 ### Hi there 👋
 I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
 
-Skills
+<br>
+
+### Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
 
 
-<img src="https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4" width=30px">
+
 
 
 
