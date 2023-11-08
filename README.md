@@ -6,7 +6,7 @@ Skills
 
 
 
-<picture><img src="https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4" style="width: 20px; height: 20px;"></picture>
+<picture><img src="https://github.com/nagots23/nagots23/assets/91756323/8d527b84-26a3-4476-a1b3-7f237e55d4e4" width=30px;"></picture>
 
 
 
