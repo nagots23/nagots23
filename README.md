@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gastón Díaz, a Geographic Information Systems/Data Analyst
+I'm Gastón Díaz, a Geographic Information Systems Analyst and Backend developer
 
 <br>
 
